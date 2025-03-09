@@ -1,0 +1,15 @@
+{
+  "name": "assignment-five",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vitest": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "vitest": "^3.0.8"
+} 
